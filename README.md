@@ -1,4 +1,4 @@
-- 👋 Hey there !, I’m Varun :) (@vr0nik)
+- 👋 Hey there !, I’m Varun :)
 - 🌱 I’m a CSE undergrad in my Sophomore year at PES University
 - 👀 My interests lie in Web Devlopment, AI , Cyber surveillance.
 - 🤓 Currently I am pursuing research and a mini project on Cryptograhy and Steganography .
